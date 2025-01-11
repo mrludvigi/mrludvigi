@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+mrludvigi+👋;)](https://git.io/typing-svg)
 
-<p align="left">
-<a href="https://instagram.com/black10b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black10b" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/black1b/" target="blank"><img align="center" src="https://www.designboom.com/wp-content/uploads/2023/09/facebook-new-logo-change-designboom-02.jpg" alt="black10b" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/black1b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/black10b) 
+
 
 # 🖥️ Technical Skills: 
 <p align="left">
@@ -124,8 +123,6 @@
 </p>
 
 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrludvigi&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=mrludvigi&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
@@ -138,3 +135,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrludvigi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
