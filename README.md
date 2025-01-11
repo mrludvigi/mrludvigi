@@ -24,7 +24,7 @@
   </br>
   <img height="150em" src="https://cheesits456-readme-stats.vercel.app/api?username=mrludvigi&show_icons=true&count_private=true&theme=midnight-purple" alt="ayush-848" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-848&theme=midnight-purple" alt="ayush-848" />
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-848&theme=juicyfresh&no-bg=true&no-frame=true" alt="ayush-848" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrludvigi&theme=juicyfresh&no-bg=true&no-frame=true" alt="ayush-848" /></a> </p>
 </details>
 
 </div>
