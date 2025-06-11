@@ -32,7 +32,7 @@
 ## </>💻 Languages & Tools :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,angular,react,tailwindcss&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,angular,react,tailwindcs,nestjss&perline=8" />
   </a>
 </p>
 </br></br>
